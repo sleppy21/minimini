@@ -557,13 +557,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Sol_Minimarket_Espinal_Entidades\Sol_Minimarket_Espinal_Entidades.csproj">
+    <ProjectReference Include="..\Sol_Minimarket_Espinal_Entidades\Sol_Minimarket.Entidades.csproj">
       <Project>{6a47a669-ec71-4ba4-8c90-00093385e79e}</Project>
-      <Name>Sol_Minimarket_Espinal_Entidades</Name>
+      <Name>Sol_Minimarket.Entidades</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Sol_Minimarket_Espinal_Negocio\Sol_Minimarket_Espinal_Negocio.csproj">
+    <ProjectReference Include="..\Sol_Minimarket_Espinal_Negocio\Sol_Minimarket.Negocio.csproj">
       <Project>{91212653-4bad-4492-9ed4-d0bd179c3267}</Project>
-      <Name>Sol_Minimarket_Espinal_Negocio</Name>
+      <Name>Sol_Minimarket.Negocio</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

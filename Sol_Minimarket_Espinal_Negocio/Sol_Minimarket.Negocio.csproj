@@ -81,13 +81,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Sol_Minimarket_Espinal_Datos\Sol_Minimarket_Espinal_Datos.csproj">
+    <ProjectReference Include="..\Sol_Minimarket_Espinal_Datos\Sol_Minimarket.Datos.csproj">
       <Project>{4d21ed3f-2829-4303-9341-6c41aa4f3763}</Project>
-      <Name>Sol_Minimarket_Espinal_Datos</Name>
+      <Name>Sol_Minimarket.Datos</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Sol_Minimarket_Espinal_Entidades\Sol_Minimarket_Espinal_Entidades.csproj">
+    <ProjectReference Include="..\Sol_Minimarket_Espinal_Entidades\Sol_Minimarket.Entidades.csproj">
       <Project>{6a47a669-ec71-4ba4-8c90-00093385e79e}</Project>
-      <Name>Sol_Minimarket_Espinal_Entidades</Name>
+      <Name>Sol_Minimarket.Entidades</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

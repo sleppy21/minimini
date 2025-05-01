@@ -242,5 +242,10 @@ namespace Minimarket_Espinal_Presentacion
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

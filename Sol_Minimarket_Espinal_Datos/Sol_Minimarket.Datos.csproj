@@ -81,9 +81,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Sol_Minimarket_Espinal_Entidades\Sol_Minimarket_Espinal_Entidades.csproj">
+    <ProjectReference Include="..\Sol_Minimarket_Espinal_Entidades\Sol_Minimarket.Entidades.csproj">
       <Project>{6a47a669-ec71-4ba4-8c90-00093385e79e}</Project>
-      <Name>Sol_Minimarket_Espinal_Entidades</Name>
+      <Name>Sol_Minimarket.Entidades</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
